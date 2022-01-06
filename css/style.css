@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
 .orange-color{
     color: orange;
 }
@@ -126,16 +130,20 @@
 }
 .best-services-section{
     display: flex;
-    margin-left: 250px;
+    margin-left: 300px;
 }
 
 .services{
     margin-top: 70px;
 }
 
+/* footer style */
+
 footer{
     text-align: center;
     background-color: black;
     color:#ffff; 
     padding: 5px;
+    width: 100%;
+    font-family: 'Pacifico', cursive;
 }
