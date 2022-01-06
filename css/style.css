@@ -1,4 +1,6 @@
-
+body{
+   align-items: center;
+}
 .orange-color{
     color: orange;
 }
@@ -20,19 +22,20 @@
 }
 .container{
     display: flex;
+    align-items: center;
     padding-right: 50px;
     padding-left: 50px;
     margin-left: 90px;
 }
 .image{
    width: 400px; 
+   margin-left: 100px;
   
 }
 
-.side-border h2{
-    border-left: 2px solid #FF5959;
+.side-border{
+    border-left: 3px solid #FF5959;
 }
-
 .mission{
     display: flex;
 }
@@ -106,10 +109,7 @@
 }
 
 .fourth-container{
-    /* background-image: url('../img/shape-1.png');
-    background-repeat: no-repeat;
-    background-size: 200px; */
-    background-position: right;
+    
     margin-top: 100px;
     display: flex;
     padding-left: 200px;  
@@ -117,4 +117,10 @@
 }
 .text-bold{
     font-weight: bold;
+}
+.shape{
+    background-image: url('../img/shape-1.png');
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: bottom;
 }
