@@ -1,0 +1,79 @@
+
+.orange-color{
+    color: orange;
+}
+.explore-btn{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+  
+}
+.first-section{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+}
+.image{
+   width: 400px; 
+  
+}
+
+.side-border h2{
+    border-left: 2px solid #FF5959;
+}
+
+.mission{
+    display: flex;
+}
+
+.background-1{
+    width: 360px;
+    height: 300px;
+    margin: 40px;
+    background-color: rgba(79, 157, 166, 0.1);;
+    border-radius: 20px;
+    padding: 20px;
+   
+
+}
+.background-2{
+    width: 360px;
+    height: 300px;
+    margin: 40px;
+    background-color: rgba(255, 89, 89, 0.1);;
+    border-radius: 20px;
+    padding: 20px;
+   
+
+}
+.background-3{
+    width: 360px;
+    height: 300px;
+    margin: 40px;
+    background-color:  #FFF4D6;;
+    border-radius: 20px;
+    padding: 20px;
+   
+
+}
+
+
+
+.my-mission{
+   text-align: center;
+   font-size: 30px;
+   font-weight: bold;
+}
+
+.second-section{
+   padding-left: 100px;
+   padding-right: 100px;
+}
